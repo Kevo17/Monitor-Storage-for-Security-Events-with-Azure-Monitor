@@ -27,7 +27,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/2oQjlcQ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -46,7 +46,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/0SvkGmY.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -58,7 +58,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/2CUJsAk.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -72,7 +72,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/vOe0w1a.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -90,7 +90,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/NDYFbf8.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -101,7 +101,7 @@ The Azure Monitor Logs feature of Azure Monitor collects, stores, and organizes 
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/picJaKE.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -117,7 +117,7 @@ where AuthenticationType == 'Anonymous'
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/1zMu0iC.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -133,7 +133,7 @@ Click Run.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/UQUBEkE.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -153,6 +153,12 @@ Click Run.
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/269951E.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/Uee4Bl9.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
